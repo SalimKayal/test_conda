@@ -1,6 +1,7 @@
 name: mycowsay
 channels:
   - conda-forge
+  - nodefaults
 dependencies:
   - python >=3.10, <3.11
   - cowpy
